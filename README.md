@@ -13,7 +13,7 @@ Coverage (Dev)  | [![front-cov-dev-badge]][front-cov-dev-link]   | [![back-cov-d
 
 [front-repo]: https://github.com/RaenonX-Finance/kl-site-front
 [front-wakatime-badge]: https://wakatime.com/badge/user/9c3313d2-5936-4c7c-a318-28510e725dae/project/51d1f092-3977-4ae8-a8f2-244ff63f0c12.svg
-[front-wakatime-link]: https://wakatime.com/projects/kl-site-front
+[front-wakatime-link]: https://wakatime.com/@RaenonX/projects/vymrstikkf
 [front-ci-main-badge]: https://raenonx.visualstudio.com/KL-Site/_apis/build/status/KL%20Site%20Front%20(Build)?branchName=main
 [front-ci-main-link]: https://raenonx.visualstudio.com/KL-Site/_build/latest?definitionId=3&branchName=main
 [front-ci-dev-badge]: https://raenonx.visualstudio.com/KL-Site/_apis/build/status/KL%20Site%20Front%20(Build)?branchName=dev
@@ -31,7 +31,7 @@ Coverage (Dev)  | [![front-cov-dev-badge]][front-cov-dev-link]   | [![back-cov-d
 
 [back-repo]: https://github.com/RaenonX-Finance/kl-site-back
 [back-wakatime-badge]: https://wakatime.com/badge/user/9c3313d2-5936-4c7c-a318-28510e725dae/project/ea4d372a-3cec-4be4-b480-645e7beaad0a.svg
-[back-wakatime-link]: https://wakatime.com/projects/kl-site-back
+[back-wakatime-link]: https://wakatime.com/@RaenonX/projects/mweqpzviqk
 [back-ci-main-badge]: https://raenonx.visualstudio.com/KL-Site/_apis/build/status/KL%20Site%20Back%20(Build)?branchName=main
 [back-ci-main-link]: https://raenonx.visualstudio.com/KL-Site/_build/latest?definitionId=4&branchName=dev
 [back-ci-dev-badge]: https://raenonx.visualstudio.com/KL-Site/_apis/build/status/KL%20Site%20Back%20(Build)?branchName=dev
