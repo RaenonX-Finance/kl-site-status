@@ -1,12 +1,24 @@
 # KL 看盤網開發狀態一覽
 
+## 其他
+
 \-              | [Front][front-repo]                            | [Back][back-repo]
 :-------------: | :--------------------------------------------: | :------------------------------------------:
 Dev Time        | [![front-wakatime-badge]][front-wakatime-link] | [![back-wakatime-badge]][back-wakatime-link]
+
+## `Main`
+
+\-              | [Front][front-repo]                            | [Back][back-repo]
+:-------------: | :--------------------------------------------: | :------------------------------------------:
 CI (Main)       | [![front-ci-main-badge]][front-ci-main-link]   | [![back-ci-main-badge]][back-ci-main-link]
 CD (Main)       | [![front-cd-badge]][front-cd-link]             | [![back-cd-badge]][back-cd-link]
 Quality (Main)  | [![front-cq-main-badge]][front-cq-main-link]   | [![back-cq-main-badge]][back-cq-main-link]
 Coverage (Main) | [![front-cov-main-badge]][front-cov-main-link] | [![back-cov-main-badge]][back-cov-main-link]
+
+## `Dev`
+
+\-              | [Front][front-repo]                            | [Back][back-repo]
+:-------------: | :--------------------------------------------: | :------------------------------------------:
 CI (Dev)        | [![front-ci-dev-badge]][front-ci-dev-link]     | [![back-ci-dev-badge]][back-ci-dev-link]
 Quality (Dev)   | [![front-cq-dev-badge]][front-cq-dev-link]     | [![back-cq-dev-badge]][back-cq-dev-link]
 Coverage (Dev)  | [![front-cov-dev-badge]][front-cov-dev-link]   | [![back-cov-dev-badge]][back-cov-dev-link]
